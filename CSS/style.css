@@ -115,12 +115,14 @@ body {
 
 .icons {
   margin: 15px 15px;
+
 }
 .icons i {
   cursor: pointer;
   color: rgb(220, 20, 60);
-  font-size: 1.2em;
-  margin-right: 10px;
+  font-size: 1.6em;
+  margin-right: 11px;
+  margin-left: 2px;
 }
 .icons i:hover {
   color: rgb(87, 87, 87);
