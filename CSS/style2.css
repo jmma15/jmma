@@ -403,7 +403,12 @@ footer .social_media_icons a:hover i{
     padding: 5em 0;
   }
   .about {
-    flex-direction: column;
+      width: 100%;
+      padding: 2em 0;
+      position: relative;
+      flex-direction: column;
+      background: #1a1a1a;
+      overflow-x: hidden;
   }
   .about div{
     width: 70%;
